@@ -1,2 +1,1 @@
-Author- Kumar Vaibhav \n
-Amazon Clone
+Author- Kumar Vaibhav 
