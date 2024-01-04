@@ -1,2 +1,2 @@
-Author- Kumar Vaibhav /n
+Author- Kumar Vaibhav \n
 Amazon Clone
